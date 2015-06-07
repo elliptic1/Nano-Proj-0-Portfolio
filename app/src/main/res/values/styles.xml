@@ -16,17 +16,18 @@
     </style>
 
     <style name="AppListHighlightButtonStyle" parent="AppListButtonStyle">
-        <item name="android:background">@color/accent</item>
+        <item name="android:background">@drawable/capstone_btn</item>
     </style>
 
     <style name="AppListButtonStyle">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_marginStart">@dimen/btn_horizontal_margin</item>
-        <item name="android:layout_marginEnd">@dimen/btn_horizontal_margin</item>
+        <item name="android:layout_marginLeft">@dimen/btn_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/btn_horizontal_margin</item>
         <item name="android:layout_marginTop">@dimen/btn_vertical_margin</item>
         <item name="android:layout_marginBottom">@dimen/btn_vertical_margin</item>
-        <item name="android:background">@color/primary_med</item>
+        <item name="android:background">@drawable/main_btn</item>
+        <item name="android:onClick">btnClick</item>
     </style>
 
 </resources>

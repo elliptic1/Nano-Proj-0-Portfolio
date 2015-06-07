@@ -14,37 +14,31 @@
         />
 
     <Button
-        android:id="@+id/btn_spotify"
         style="@style/AppListButtonStyle"
         android:text="@string/app_title_spotify_streamer"
         />
 
     <Button
-        android:id="@+id/btn_super_duo_football_scores"
         style="@style/AppListButtonStyle"
         android:text="@string/app_title_super_duo_football_scores"
         />
 
     <Button
-        android:id="@+id/btn_super_duo_library_app"
         style="@style/AppListButtonStyle"
         android:text="@string/app_title_super_duo_library_app"
         />
 
     <Button
-        android:id="@+id/btn_build_it_bigger"
         style="@style/AppListButtonStyle"
         android:text="@string/app_title_build_it_bigger"
         />
 
     <Button
-        android:id="@+id/btn_xyz_reader"
         style="@style/AppListButtonStyle"
         android:text="@string/app_title_xyz_reader"
         />
 
     <Button
-        android:id="@+id/btn_capstone"
         style="@style/AppListHighlightButtonStyle"
         android:text="@string/app_title_capstone"
         />
